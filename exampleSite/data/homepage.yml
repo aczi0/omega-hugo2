@@ -43,14 +43,6 @@ product:
     mais précis. Notre objectif est d'apporter de la valeur pour vous permettre de
     faire beaucoup plus avec beaucoup moins.\n\n"
   product_item:
-  - title: Planification agile des opérations
-    image: ''
-    content: Quoi faire lors d'une perturbation dans vos opérations?
-    project_url: "#"
-  - title: Planification des routes
-    image: ''
-    content: Optimization des routes journalières, prévisions de la demande, horaires.
-    project_url: "#"
   - title: Optimization d'inventaire
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
@@ -60,6 +52,14 @@ product:
     image: images/product/product-02.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
+    project_url: "#"
+  - title: Planification agile des opérations
+    image: ''
+    content: Quoi faire lors d'une perturbation dans vos opérations?
+    project_url: "#"
+  - title: Planification des routes
+    image: ''
+    content: Optimization des routes journalières, prévisions de la demande, horaires.
     project_url: "#"
   - title: Optimization de la production
     image: images/product/product-03.jpg
