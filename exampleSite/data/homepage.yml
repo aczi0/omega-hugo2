@@ -43,9 +43,9 @@ product:
     mais précis. Notre objectif est d'apporter de la valeur pour vous permettre de
     faire beaucoup plus avec beaucoup moins.\n\n"
   product_item:
-  - title: Planification des effectifs
+  - title: Planification des routes
     image: ''
-    content: ''
+    content: Optimization des routes journalières, prévisions de la demande, horaires.
     project_url: "#"
   - title: Optimization d'inventaire
     image: images/product/product-03.jpg
@@ -61,6 +61,10 @@ product:
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
+    project_url: "#"
+  - title: Planification des effectifs
+    image: ''
+    content: ''
     project_url: "#"
 contact:
   enable: true
