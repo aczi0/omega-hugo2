@@ -73,12 +73,12 @@ product:
 contact:
   enable: true
   section: CONTACT US
-  title: reach us
+  title: Débutez votre projet avec nous
   image: images/map-bg.jpg
-  content: The dawn of the digital age and the need for a significant leap forward
-    is here. We believe that every business has the opportunity to move into this
-    new age with the right mindset. Contact us today to begin understanding how Omega
-    can propel your business.
+  content: L'aube de l'ère numérique et la nécessité d'un bond en avant significatif
+    sont arrivées. Nous croyons que chaque entreprise a la possibilité d'entrer dans
+    cette nouvelle ère avec le bon état d'esprit. Contactez-nous dès aujourd'hui pour
+    commencer à comprendre comment Kaster peut propulser votre entreprise.
 call_to_action:
   enable: true
   title: Join the Omega family. <br>Click below to view the career opportunities we
