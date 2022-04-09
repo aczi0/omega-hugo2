@@ -43,6 +43,10 @@ product:
     mais précis. Notre objectif est d'apporter de la valeur pour vous permettre de
     faire beaucoup plus avec beaucoup moins.\n\n"
   product_item:
+  - title: Planification agile des opérations
+    image: ''
+    content: Quoi faire lors d'une perturbation dans vos opérations?
+    project_url: "#"
   - title: Planification des routes
     image: ''
     content: Optimization des routes journalières, prévisions de la demande, horaires.
