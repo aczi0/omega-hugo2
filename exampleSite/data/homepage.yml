@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  title: The fastest way <br> to optimize your production
-  content: Solving your planning problems <br> using AI-centered decision making
+  title: Planifiez votre production <br> plus efficacement.
+  content: Résolvez vos problèmes de planification <br> à l'aide de l'IA
   image: "/images/hero-image/hero-slider-01.jpg"
   button:
     enable: true
