@@ -26,10 +26,9 @@ vision:
     image: images/vision/vision-01.jpg
     content: Nous bâtissons des relations d'abord et avant tout. <br> L'humain toujours
       mis de l'avant.
-  - title: Employee Culture
+  - title: Éthique
     image: images/vision/vision-02.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Nous misons sur la transparance et l'explicativité de nos algorithmes.
   - title: The Omega Way
     image: images/vision/vision-03.jpg
     content: I started with a vision of creating an atmosphere where people come first.
