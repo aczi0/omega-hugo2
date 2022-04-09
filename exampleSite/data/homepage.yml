@@ -43,6 +43,10 @@ product:
     mais précis. Notre objectif est d'apporter de la valeur pour vous permettre de
     faire beaucoup plus avec beaucoup moins.\n\n"
   product_item:
+  - title: Simulation
+    image: ''
+    content: Le jumeaux numérique simplifié.
+    project_url: ''
   - title: Optimization d'inventaire
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
