@@ -80,7 +80,7 @@ contact:
     cette nouvelle ère avec le bon état d'esprit. Contactez-nous dès aujourd'hui pour
     commencer à comprendre comment Kaster peut propulser votre entreprise.
 call_to_action:
-  enable: true
+  enable: false
   title: Join the Omega family. <br>Click below to view the career opportunities we
     have for you.
   button_label: Apply Now
