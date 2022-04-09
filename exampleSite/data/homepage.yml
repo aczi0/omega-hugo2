@@ -1,8 +1,11 @@
 ---
 banner:
   enable: true
-  title: Optimisez vos opérations
-  content: Résolvez vos problèmes de planification <br> à l'aide de l'IA
+  title: Notre focus est vos défis opérationnel <br> Notre spécialité est l'intelligence
+    artificielle
+  content: Avec notre approche holistique, nous ciblons vos problèmes de planification
+    et d'opérations<br> et livrons des améliorations significatives, à l'aide de l'IA
+    et d'analytique avancée.
   image: "/images/hero-image/hero-slider-01.jpg"
   button:
     enable: true
@@ -35,12 +38,12 @@ vision:
 product:
   enable: true
   section: Products
-  title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  title: Notre zone de comfort
+  content: "Voyez comment nos services innovants couvrent un champ d'affaire large
+    mais précis. Notre objectif est d'apporter de la valeur pour vous permettre de
+    faire beaucoup plus avec beaucoup moins.\n\n"
   product_item:
-  - title: Ecosystem
+  - title: Optimization d'inventaire
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
