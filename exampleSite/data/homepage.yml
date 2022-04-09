@@ -62,7 +62,7 @@ product:
     content: Quoi faire lors d'une perturbation dans vos opérations?
     project_url: "#"
   - title: Planification des routes
-    image: ''
+    image: "/images/routingopt_tint.jpg"
     content: Optimization des routes journalières, prévisions de la demande, horaires.
     project_url: "#"
   - title: Optimization de la production
