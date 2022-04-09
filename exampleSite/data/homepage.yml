@@ -10,11 +10,10 @@ banner:
     link: "#products"
 mission:
   enable: true
-  title: Propel Advancement
+  title: Augmentez votre processus de décision
   section: MISSION
-  content: Introducing the world’s first Advancement Company. As we enter the dawn
-    of the digital age a significant leap must be made to propel the world into the
-    age of advancement.
+  content: Alors que nous entrons dans l'ère du numérique, un pas important doit être
+    fait pour propulser votre industrie dans l'ère du progrès.
   video_thumb: images/video-thumb.jpg
   video_id: ResipmZmpDU
 vision:
