@@ -74,10 +74,9 @@ contact:
   section: CONTACT US
   title: Débutez votre projet avec nous
   image: images/map-bg.jpg
-  content: L'aube de l'ère numérique et la nécessité d'un bond en avant significatif
-    sont arrivées. Nous croyons que chaque entreprise a la possibilité d'entrer dans
-    cette nouvelle ère avec le bon état d'esprit. Contactez-nous dès aujourd'hui pour
-    commencer à comprendre comment Kaster peut propulser votre entreprise.
+  content: Nous croyons que chaque entreprise a la possibilité d'entrer dans cette
+    nouvelle ère avec le bon état d'esprit. Contactez-nous dès aujourd'hui pour commencer
+    à comprendre comment Kaster peut propulser votre entreprise.
 call_to_action:
   enable: false
   title: Join the Omega family. <br>Click below to view the career opportunities we
