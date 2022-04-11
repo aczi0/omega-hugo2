@@ -1,10 +1,9 @@
 ---
 banner:
   enable: true
-  title: Devenez pionnier de votre industrie <br> grâce à l'intelligence digitale.
-  content: Avec notre approche holistique, nous ciblons vos problèmes de planification
-    et d'opérations<br> et livrons des améliorations significatives, à l'aide de l'IA
-    et d'analytique avancée.
+  title: Automation et optimisation <br> grâce à l'intelligence digitale.
+  content: Avec notre approche par principes fondamentaux,<br> nous vous propulserons
+    à faire plus avec beaucuop moins.
   image: "/images/imageedit_2_5072785393.jpg"
   button:
     enable: true
