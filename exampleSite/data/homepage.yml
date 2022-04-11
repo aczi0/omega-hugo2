@@ -28,9 +28,9 @@ vision:
   - title: Éthique
     image: images/vision/vision-02.jpg
     content: Nous misons sur la transparance et l'explicativité de nos algorithmes.
-  - title: 'Kaster '
+  - title: Découvrez
     image: images/vision/vision-03.jpg
-    content: Bâtissons ensemble l'industrie de demain.
+    content: Nous vous aidons à faire le pas vers le monde de demain.
 product:
   enable: true
   section: Products
