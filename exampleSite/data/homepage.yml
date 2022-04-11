@@ -33,11 +33,11 @@ vision:
     content: Nous vous aidons à faire le pas vers le monde de demain.
 product:
   enable: true
-  section: Products
+  section: Service
   title: Notre expertise
-  content: "Voyez comment nos services innovants couvrent un champ d'affaire large
-    mais précis. Notre objectif est d'apporter de la valeur pour vous permettre de
-    faire beaucoup plus avec beaucoup moins.\n\n"
+  content: "Voyez comment nos services innovants couvrent un champ d'affaire très
+    large. Notre objectif est d'apporter de la valeur pour vous permettre de faire
+    beaucoup plus avec beaucoup moins.\n\n"
   product_item:
   - title: Optimisation d'inventaire
     image: "/images/inventory_tint.jpg"
