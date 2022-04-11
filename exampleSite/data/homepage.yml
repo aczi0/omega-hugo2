@@ -7,7 +7,7 @@ banner:
   image: "/images/imageedit_2_5072785393.jpg"
   button:
     enable: true
-    label: DÉBUTER
+    label: comment?
     link: "#products"
 mission:
   enable: true
