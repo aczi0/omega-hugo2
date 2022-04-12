@@ -59,6 +59,6 @@ enable = false
 images = ["images/gallery/gallery-01.png", "images/gallery/gallery-02.png", "images/gallery/gallery-03.png"]
 [menu.main]
 name = "À propos"
-weight = 6
+weight = 5
 
 +++
