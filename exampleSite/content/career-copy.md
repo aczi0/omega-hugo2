@@ -44,9 +44,9 @@ content = "Ensemble, nous révisons vos processus de planification et de prises 
 icon = "fa-bicycle"
 name = "Exploration"
 [[funfacts.funfacts_item]]
-content = "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+content = "Vous êtes au centre du design de nos algorithmes. Un prototype est développé sur mesure pour s'assurer que vos besoins et notre solutions soient alignés parfaitement."
 icon = "fa-bell-o"
-name = "Free Snacks"
+name = "Prototype"
 [[funfacts.funfacts_item]]
 content = "Tight schedule, tell us so we can tailor the schedule that fits your needs."
 icon = "fa-microchip"
