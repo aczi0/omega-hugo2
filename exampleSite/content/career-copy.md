@@ -44,7 +44,7 @@ icon = "fa-magnifying-glass"
 name = "Exploration"
 [[funfacts.funfacts_item]]
 content = "Vous êtes au centre du design de nos algorithmes. Un prototype est développé sur mesure pour s'assurer que vos besoins et notre solutions soient alignés parfaitement."
-icon = "fa-bell-o"
+icon = "fa-map"
 name = "Prototype"
 [[funfacts.funfacts_item]]
 content = "Une fois le prototype validé, nous procédons au développement de la solution en mode agile, en ajustant itérativement notre model pour s'assurer que les besoins évolutifs soient validés et intégrés."
