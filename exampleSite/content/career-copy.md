@@ -40,7 +40,7 @@ enable = true
 title = "Notre méthode"
 [[funfacts.funfacts_item]]
 content = "Ensemble, nous révisons vos processus de planification et de prises de décisions pour voir où l'impact sera le plus grand."
-icon = "fa-magnifying-glass"
+icon = "fa-search"
 name = "Exploration"
 [[funfacts.funfacts_item]]
 content = "Vous êtes au centre du design de nos algorithmes. Un prototype est développé sur mesure pour s'assurer que vos besoins et notre solutions soient alignés parfaitement."
