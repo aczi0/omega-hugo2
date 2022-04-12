@@ -1,14 +1,14 @@
 +++
-description = "Do what you enjoy, invest for your future and reap the benefits of working with the worlds first advancement company that puts people first."
+description = "Avec l'abondance de données, la prise de décision devient un casse tête de plus en plus complex. C'est pourquoi nous pensons que l'humain doit être augmenté par des technologies pour s'assurer de toujours être en tête. "
 draft = true
 layout = "career"
-title = "Career-(copy)"
+title = "Pourquoi Kaster?"
 [about]
-content = "Bright, educated and hard working individuals who put professionalism first."
+content = "Ayant été développer dans les années 1950 pour réussir à synchroniser les opérations militaires en Angleterre, cette science de la décision a été adopté par les géants pour simplifier et améliorer grandement les liens tissés entre chacuns des éléments de leurs chaine de valeurs. "
 enable = true
-title = "Who we're looking for"
-video_id = "g3-VxLQO7do"
-video_thumb = "images/promo-video-thumbnail.jpg"
+title = "La recherche opérationnelle"
+video_id = ""
+video_thumb = ""
 [career]
 enable = true
 title = "Job Opening"
