@@ -19,11 +19,6 @@ name = "Expertise"
 pre = "#"
 url = "products"
 weight = 2
-[[menu.main]]
-name = "Kaster"
-pre = ""
-url = "/"
-weight = 1
 [params]
 author = "Themefisher"
 contact_info = "1 Skyroad <br>Canada"
