@@ -48,9 +48,9 @@ content = "Vous êtes au centre du design de nos algorithmes. Un prototype est d
 icon = "fa-bell-o"
 name = "Prototype"
 [[funfacts.funfacts_item]]
-content = "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+content = "Une fois le prototype validé, nous procédons au développement de la solution en mode agile, en ajustant itérativement notre model pour s'assurer que les besoins évolutifs soient validés et intégrés."
 icon = "fa-microchip"
-name = "Recreation"
+name = "Développement"
 [[funfacts.funfacts_item]]
 content = "Tight schedule, tell us so we can tailor the schedule that fits your needs."
 icon = "fa-plug"
