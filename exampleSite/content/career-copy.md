@@ -52,7 +52,7 @@ icon = "fa-code"
 name = "Développement"
 [[funfacts.funfacts_item]]
 content = "Notre objectif est de voir le gain dépasser vos attentes, et de vous supporter dans votre adoption de cette nouvelle méthode de prise de décision qui vous permet de faire beaucoup plus avec moins."
-icon = "fa-message-bot"
+icon = "fa-user"
 name = "Support"
 [gallery]
 enable = false
