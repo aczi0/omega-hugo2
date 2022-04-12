@@ -18,7 +18,7 @@ mission:
   video_thumb: images/video-thumb.jpg
   video_id: ResipmZmpDU
 vision:
-  enable: true
+  enable: false
   section: VISION
   vision_item:
   - title: Relations
