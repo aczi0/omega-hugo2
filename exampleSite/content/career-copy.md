@@ -1,7 +1,7 @@
 +++
 description = "Avec l'abondance de données, la prise de décision devient un casse tête de plus en plus complex. C'est pourquoi nous pensons que l'humain doit être augmenté par des technologies pour s'assurer de toujours être en tête. "
 layout = "career"
-title = "Pourquoi Kaster?"
+title = "Pourquoi"
 [about]
 content = "Ayant été développer dans les années 1950 pour réussir à synchroniser les opérations militaires en Angleterre, cette science de la décision a été adopté par les géants pour simplifier et améliorer grandement les liens tissés entre chacuns des éléments de leurs chaine de valeurs. "
 enable = true
