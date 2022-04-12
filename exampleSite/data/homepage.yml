@@ -40,9 +40,10 @@ product:
     beaucoup plus avec beaucoup moins.\n\n"
   product_item:
   - title: Optimisation d'inventaire
-    image: "/images/inventory_tint.jpg"
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    image: "/images/inventory_tint_v2.jpg"
+    content: Trouvez la balance optimale entre votre demande et le niveau d'inventaire
+      acceptable en prenant compte de la volatilité, des coûts et du niveau de service
+      voulu.
     project_url: "#"
   - title: Optimisation de service
     image: "/images/service_opt_tint.jpg"
