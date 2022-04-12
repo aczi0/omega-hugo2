@@ -52,9 +52,9 @@ content = "Une fois le prototype validé, nous procédons au développement de l
 icon = "fa-microchip"
 name = "Développement"
 [[funfacts.funfacts_item]]
-content = "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+content = "Notre objectif est de voir le gain dépasser vos attentes, et de vous supporter dans votre adoption de cette nouvelle méthode de prise de décision qui vous permet de faire beaucoup plus avec moins."
 icon = "fa-plug"
-name = "5 Working Days"
+name = "Support"
 [gallery]
 enable = false
 images = ["images/gallery/gallery-01.png", "images/gallery/gallery-02.png", "images/gallery/gallery-03.png"]
