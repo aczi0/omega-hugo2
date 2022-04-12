@@ -31,8 +31,8 @@ url = "contact"
 weight = 5
 [params]
 author = "Themefisher"
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
-description = "This is meta description"
+contact_info = "1 Skyroad <br>Canada"
+description = "L'intelligence digitale au service de vos opérations."
 logo = "images/logo.png"
 logo_width = "240px"
 preloader = true
