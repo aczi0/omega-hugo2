@@ -48,7 +48,7 @@ icon = "fa-map"
 name = "Prototype"
 [[funfacts.funfacts_item]]
 content = "Une fois le prototype validé, nous procédons au développement de la solution en mode agile, en ajustant itérativement notre model pour s'assurer que les besoins évolutifs soient validés et intégrés."
-icon = "fa-microchip"
+icon = "fa-code"
 name = "Développement"
 [[funfacts.funfacts_item]]
 content = "Notre objectif est de voir le gain dépasser vos attentes, et de vous supporter dans votre adoption de cette nouvelle méthode de prise de décision qui vous permet de faire beaucoup plus avec moins."
