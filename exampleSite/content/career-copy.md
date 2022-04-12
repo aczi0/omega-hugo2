@@ -1,6 +1,5 @@
 +++
 description = "Avec l'abondance de données, la prise de décision devient un casse tête de plus en plus complex. C'est pourquoi nous pensons que l'humain doit être augmenté par des technologies pour s'assurer de toujours être en tête. "
-draft = true
 layout = "career"
 title = "Pourquoi Kaster?"
 [about]
