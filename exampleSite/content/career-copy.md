@@ -10,7 +10,7 @@ title = "La recherche opérationnelle"
 video_id = ""
 video_thumb = ""
 [career]
-enable = true
+enable = false
 title = "Job Opening"
 [[career.job_item]]
 about = "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
