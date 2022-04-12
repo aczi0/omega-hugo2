@@ -38,11 +38,11 @@ location = "Hamburg, Germany"
 name = "International Compliance Officer"
 [funfacts]
 enable = true
-title = "amenities for you to enjoy"
+title = "Notre méthode"
 [[funfacts.funfacts_item]]
-content = "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+content = "Ensemble, nous révisons vos processus de planification et de prises de décisions pour voir où l'impact sera le plus grand."
 icon = "fa-bicycle"
-name = "Flexible hours"
+name = "Exploration"
 [[funfacts.funfacts_item]]
 content = "Tight schedule, tell us so we can tailor the schedule that fits your needs."
 icon = "fa-bell-o"
@@ -56,7 +56,7 @@ content = "Tight schedule, tell us so we can tailor the schedule that fits your 
 icon = "fa-plug"
 name = "5 Working Days"
 [gallery]
-enable = true
+enable = false
 images = ["images/gallery/gallery-01.png", "images/gallery/gallery-02.png", "images/gallery/gallery-03.png"]
 
 +++
