@@ -40,7 +40,7 @@ product:
     beaucoup plus avec beaucoup moins.\n\n"
   product_item:
   - title: Optimisation d'inventaire
-    image: "/images/inventory_tint_v2.jpg"
+    image: "---/images/inventory_tint_v2.jpg"
     content: Trouvez la balance optimale entre votre demande et le niveau d'inventaire
       acceptable en prenant compte de la volatilité, des coûts et du niveau de service
       voulu.
