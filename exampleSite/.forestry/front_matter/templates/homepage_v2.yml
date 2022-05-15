@@ -143,3 +143,22 @@ fields:
   - type: text
     name: button_link
     label: button_link
+- name: area_of_expertise
+  type: field_group_list
+  fields:
+  - name: test_1
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Test 1
+    description: Test 1<br>Test 2
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Area of expertise
+  description: Example
